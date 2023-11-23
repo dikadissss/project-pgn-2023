@@ -1,5 +1,215 @@
 {% extends 'index.html' %}
+{% load static %}
 
 {% block content %}
-<h1>Hello</h1>
+    <form action="{% url 'focal:get_focal' %}" method="POST" class="card-body mt-5">
+        {% csrf_token %}
+        <div class="row justify-content-between">
+            <div class="col-sm-3">
+                <h4><strong>Date Interval (UTC)</strong></h4>
+                <hr>
+                <div class="form-group">
+                    <label>Start Date:</label>
+                    <div class="d-flex justify-content-between">
+                        <input type="text" class="form-control" name="startdate" id="startdate"/>
+                    </div>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label>End Date:</label>
+                    <div class="d-flex justify-content-between">
+                        <input type="text" class="form-control" name="enddate" id="enddate"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mr-5 ml-5 text-center">
+                <h4><strong>Magnitude Interval</strong></h4>
+                <hr>
+                <div class="row justify-content-between">
+                    <div class="col-4">
+                        <h6>Min</h6>
+                        <input type="number" class="form-control form-control-sm" min="0" max="100" step="0.1"
+                               name="minmag" id="minmag">
+                    </div>
+                    <div class="col-4">
+                        <h6>Max</h6>
+                        <input type="number" class="form-control form-control-sm" min="0" max="100" step="0.1"
+                               name="maxmag" id="maxmag">
+                    </div>
+                </div>
+                <br>
+                <div id="magSlider" class="noUi-target noUi-ltr noUi-horizontal noUi-txt-dir-ltr">
+                </div>
+                <br><br>
+                <h4><strong>Depth (km)</strong></h4>
+                <hr>
+                <div class="row justify-content-between">
+                    <div class="col-4">
+                        <h6>Min</h6>
+                        <input type="number" class="form-control form-control-sm" min="0" max="1000" step="10"
+                               name="mindepth" id="mindepth">
+                    </div>
+                    <div class="col-4">
+                        <h6>Max</h6>
+                        <input type="number" class="form-control form-control-sm" min="0" max="1000" step="10"
+                               name="maxdepth" id="maxdepth">
+                    </div>
+                </div>
+                <br>
+                <div id="depthSlider" class="noUi-target noUi-ltr noUi-horizontal noUi-txt-dir-ltr">
+                </div>
+
+            </div>
+            <div class="col-md-3 text-center">
+                <h4><strong>Geographic Region</strong></h4>
+                <hr>
+                <div class="row justify-content-center">
+                    <div class="col-4">
+                        <h6>North</h6>
+                        <input type="number" class="form-control form-control-sm" min="-90" max="90" step="any"
+                               name="north" id="north" value="6">
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-4">
+                        <h6>West</h6>
+                        <input type="number" class="form-control form-control-sm" min="-180" max="180" step="any"
+                               name="west" id="west" value="95">
+                    </div>
+                    <div class="col-4">
+                        <button type="button" class="btn btn-primary mt-3 mb-3" data-toggle="modal"
+                                data-target="#myModal">Draw Map
+                        </button>
+                    </div>
+                    <div class="col-4">
+                        <h6>East</h6>
+                        <input type="number" class="form-control form-control-sm" min="-180" max="180" step="any"
+                               name="east" id="east" value="141">
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-4">
+                        <input type="number" class="form-control form-control-sm mb-1" min="-90" max="90" step="any"
+                               name="south" id="south" value="-11">
+                        <h6>South</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center mt-5">
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+    </form>
+{% endblock %}
+
+{% block script %}
+    <script src="https://repogempa.bmkg.go.id/ALTE320/plugins/nouislider/nouislider.min.js"></script>
+    <script src="https://repogempa.bmkg.go.id/ALTE320/plugins/nouislider/wNumb.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <script>
+        // Slider range mag
+        const magSlider = document.getElementById('magSlider');
+
+        noUiSlider.create(magSlider, {
+            start: [0, 4.9],
+            connect: true,
+            step: 0.1,
+            format: wNumb({decimals: 1}),
+            range: {
+                'min': 0,
+                'max': 10
+            },
+        });
+
+        const minMag = document.getElementById('minmag');
+        const maxMag = document.getElementById('maxmag');
+
+        magSlider.noUiSlider.on('update', function (values, handle) {
+
+            var value = values[handle];
+
+            if (handle) {
+                maxMag.value = value;
+            } else {
+                minMag.value = value;
+            }
+        });
+
+        minMag.addEventListener('change', function () {
+            magSlider.noUiSlider.set([this.value, null]);
+        });
+
+        maxMag.addEventListener('change', function () {
+            magSlider.noUiSlider.set([null, this.value]);
+        });
+    </script>
+    <script>
+        // Slider range depth
+        const depthSlider = document.getElementById('depthSlider');
+
+        noUiSlider.create(depthSlider, {
+            start: [0, 300],
+            connect: true,
+            step: 10,
+            format: wNumb({decimals: 0}),
+            range: {
+                'min': 0,
+                'max': 1000
+            }
+        });
+
+        const minDepth = document.getElementById('mindepth');
+        const maxDepth = document.getElementById('maxdepth');
+
+        depthSlider.noUiSlider.on('update', function (values, handle) {
+
+            const value = values[handle];
+
+            if (handle) {
+                maxDepth.value = value;
+            } else {
+                minDepth.value = value;
+            }
+        });
+
+        minDepth.addEventListener('change', function () {
+            depthSlider.noUiSlider.set([this.value, null]);
+        });
+
+        maxDepth.addEventListener('change', function () {
+            depthSlider.noUiSlider.set([null, this.value]);
+        });
+    </script>
+    <script>
+        $(function () {
+            {#let today = new Date()#}
+            {#let yesterday = today.setDate(new Date(today).getDate() - 1).toString('YYYY-MM-DD HH:mm:ss')#}
+            {#$.format.date(yesterday, 'yyyy/MM/dd HH:mm:ss');#}
+
+            $('#startdate').daterangepicker({
+                singleDatePicker: true,
+                timePicker: true,
+                timePicker24Hour: true,
+                timePickerSeconds: true,
+                {#maxDate: '2023-11-20 23:59:59',#}
+                locale: {
+                    format: 'YYYY-MM-DD HH:mm:ss'
+                },
+            });
+            {#$('#startdate').val(yesterday);#}
+
+            $('#enddate').daterangepicker({
+                singleDatePicker: true,
+                timePicker: true,
+                timePicker24Hour: true,
+                timePickerSeconds: true,
+                maxDate: new Date() + 1,
+                locale: {
+                    format: 'YYYY-MM-DD HH:mm:ss'
+                }
+            });
+        });
+    </script>
 {% endblock %}

@@ -1,0 +1,6581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LTSM",
+                "stakeholder": "Lumut Sumatera Utara ",
+                "uptbmkg": "Bawil-I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.9305",
+                    "1.5294",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PTSM",
+                "stakeholder": "Pangaribuan Sumatera Utara ",
+                "uptbmkg": "Bawil-I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.166",
+                    "2.0118",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TTSM",
+                "stakeholder": "Tano Tombangan Angkola Sumut",
+                "uptbmkg": "Bawil-I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.4106",
+                    "1.0855",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RLSI",
+                "stakeholder": "Rantau Selatan Sumatera Utara",
+                "uptbmkg": "Bawil-I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.8553",
+                    "2.0686",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MTKI",
+                "stakeholder": "Muara Teweh Kalimantan Tengah",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.8959",
+                    "-0.9418",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PBKI",
+                "stakeholder": "Pangkalan Bun Kalimantan Tengah",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.6697",
+                    "-2.7047",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PKKI",
+                "stakeholder": "Palangkaraya Kalimantan Tengah ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.9721",
+                    "-2.2410",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SSKI",
+                "stakeholder": "Singkawang Kalimantan Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.9600",
+                    "0.8178",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "STKI",
+                "stakeholder": "Sintang Kalimantan Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.4772",
+                    "0.0656",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ACJM",
+                "stakeholder": "Astanajapura Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.6151",
+                    "-6.8033",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CIJM",
+                "stakeholder": "Cikedung Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.185",
+                    "-6.493",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CSJM",
+                "stakeholder": "Congeang Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.01",
+                    "-6.741",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PCJM",
+                "stakeholder": "Pabuaran Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.7192",
+                    "-6.913",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PKJM",
+                "stakeholder": "Pasawahan Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.445",
+                    "-6.7988",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SEJM",
+                "stakeholder": "Sedong Jawa Barat ",
+                "uptbmkg": "Bawil-II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.58",
+                    "-6.8909",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NKBI",
+                "stakeholder": "Nusa Penida Bali ",
+                "uptbmkg": "Bawil-III"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.5259",
+                    "-8.7261",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KBBI",
+                "stakeholder": "Kintamani Bali  ",
+                "uptbmkg": "Bawil-III"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.2547",
+                    "-8.286",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KRSI",
+                "stakeholder": "Karossa Sulawesi Barat ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.5627",
+                    "-1.8903",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MSCM",
+                "stakeholder": "Masamba Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.332",
+                    "-2.534",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MTCM",
+                "stakeholder": "Malili Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.118",
+                    "-2.61",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TLCM",
+                "stakeholder": "Tomoni Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.772",
+                    "-2.495",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TOCM",
+                "stakeholder": "Towuti Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.399",
+                    "-2.648",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MMCI",
+                "stakeholder": "Mamasa Sulawesi Barat ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.3628",
+                    "-2.9556",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PMCI",
+                "stakeholder": "Pasangkayu Sulawesi Barat ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.398",
+                    "-1.1748",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BNSI",
+                "stakeholder": "Bone Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.1065",
+                    "-4.4005",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PMSI",
+                "stakeholder": "Paralitang Majene Sulawesi Barat",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "118.9149",
+                    "-3.5008",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSSI",
+                "stakeholder": "Pulau Siau Sulawesi Selatan",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "125.4045",
+                    "2.7353",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SPSI",
+                "stakeholder": "Sidrap Palu Sulawesi Selatan",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.7691",
+                    "-3.9646",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SRSI",
+                "stakeholder": "Sorowako Sulawesi Selatan ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.8700",
+                    "-2.5315",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TTSI",
+                "stakeholder": "Tana Toraja Sulawesi Selatan",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8190",
+                    "-3.0451",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MMSI",
+                "stakeholder": "Mamuju Sulawesi Barat ",
+                "uptbmkg": "Bawil-IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "118.9090",
+                    "-2.6892",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DYPI",
+                "stakeholder": "Dekai Papua Barat ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "139.4991",
+                    "-4.8521",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WWPI",
+                "stakeholder": "Waropen Bawah Papua Barat",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.3773",
+                    "-2.313",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ERPI",
+                "stakeholder": "Enaratoli Papua  ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.3800",
+                    "-3.9269",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NBPI",
+                "stakeholder": "Nabire Papua  ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "135.4972",
+                    "-3.3656",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SMPI",
+                "stakeholder": "Sarmi Papua  ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "138.7100",
+                    "-1.9900",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SRPI",
+                "stakeholder": "Serui Papua  ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.2400",
+                    "-1.8755",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TRPI",
+                "stakeholder": "Tanah Merah Papua ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.3001",
+                    "-6.0989",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WAMI",
+                "stakeholder": "Wamena Papua  ",
+                "uptbmkg": "Bawil-V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "138.9500",
+                    "-4.0959",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ALTI",
+                "stakeholder": "Alor Timur Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Alor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "125.1262",
+                    "-8.2904",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IBTI",
+                "stakeholder": "Ile Boleng Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Alor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.2583",
+                    "-8.3853",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "AAII",
+                "stakeholder": "Ambon Maluku  ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.1940",
+                    "-3.6871",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SANI",
+                "stakeholder": "Sanana Maluku Utara ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "125.9881",
+                    "-2.0497",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SEMI",
+                "stakeholder": "Seram Utara Timur Seti Maluku   ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "129.8209",
+                    "-2.917",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SRMI",
+                "stakeholder": "Seram Utara Maluku ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "129.1818",
+                    "-2.9415",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SSMI",
+                "stakeholder": "Siritaun Wida Timur Maluku",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "130.8287",
+                    "-3.7367",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TAMI",
+                "stakeholder": "Teluk Ambon Maluku ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.1108",
+                    "-3.6764",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "AAI",
+                "stakeholder": "Ambon Maluku  ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.1943",
+                    "-3.6871",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BSMI",
+                "stakeholder": "Bula Seram Maluku ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "130.4939",
+                    "-3.1075",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KRAI",
+                "stakeholder": "Kai Ratu Maluku ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.3947",
+                    "-3.3184",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MSAI",
+                "stakeholder": "Masohi Maluku  ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.9285",
+                    "-3.3462",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NLAI",
+                "stakeholder": "Namlea Maluku  ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.0998",
+                    "-3.2390",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JAY",
+                "stakeholder": "Jayapura Papua  ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.7043",
+                    "-2.5145",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GENI",
+                "stakeholder": "Genyem Jayapura Papua ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.1678",
+                    "-2.5927",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ARPI",
+                "stakeholder": "Arso Papua Barat ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.7561",
+                    "-2.9014",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LJPI",
+                "stakeholder": "Lereh Papua Barat ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "139.945",
+                    "-3.1271",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MMPI",
+                "stakeholder": "Merauke Papua  ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.4141",
+                    "-8.5181",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BKB",
+                "stakeholder": "Balikpapan Kalimantan Timur ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.9048",
+                    "-1.1073",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DBKI",
+                "stakeholder": "Dusun Selatan Kalimantan Tengah",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.9083",
+                    "-1.679",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KKKI",
+                "stakeholder": "Kendawangan Kalimantan Barat ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.1956",
+                    "-2.515",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NKKI",
+                "stakeholder": "Nangan Tayap Kalimantan Barat",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.5666",
+                    "-1.56",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TBKI",
+                "stakeholder": "Teluk Bayur Kalimantan Timur",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.4242",
+                    "2.136",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBKI",
+                "stakeholder": "Kota Banjarbaru Kalimantan Selatan",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.8411",
+                    "-3.4625",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KBKI",
+                "stakeholder": "Kotabaru Kalimantan Selatan ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.1668",
+                    "-3.2995",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SGKI",
+                "stakeholder": "Sangata Kalimantan Timur ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.6043",
+                    "0.5302",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SMKI",
+                "stakeholder": "Samarinda Kalimantan Timur ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.2085",
+                    "-0.4461",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TARAI",
+                "stakeholder": "Tarakan Kalimantan Timur ",
+                "uptbmkg": "Stageof-Balikpapan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.5704",
+                    "3.3271",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LHMI",
+                "stakeholder": "Lhokseumawe Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.9469",
+                    "5.2286",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BESM",
+                "stakeholder": "Beutong Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.6557",
+                    "4.2171",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GESM",
+                "stakeholder": "Geumpang Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.0691",
+                    "4.6844",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GPSM",
+                "stakeholder": "Geumpang Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.2515",
+                    "4.9523",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MASM",
+                "stakeholder": "Masjid Raya Aceh ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.5186",
+                    "5.4996",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SASM",
+                "stakeholder": "Sampoiniet Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.6091",
+                    "5.1272",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SISM",
+                "stakeholder": "Silih Nara Aceh ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.525",
+                    "4.6895",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BESI",
+                "stakeholder": "Bukit Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.8396",
+                    "4.6355",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BUSI",
+                "stakeholder": "Bandar Baru Aceh ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.0667",
+                    "5.2909",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SKSI",
+                "stakeholder": "Sukakarya Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.3023",
+                    "5.8241",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TPSI",
+                "stakeholder": "Tangse Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.9487",
+                    "4.9908",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LASI",
+                "stakeholder": "Langsa Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.9704",
+                    "4.4573",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MLSI",
+                "stakeholder": "Melaboh Nanggro Aceh Darussalam",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.4040",
+                    "4.2669",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SNSI",
+                "stakeholder": "Sinabang NAD  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "96.3267",
+                    "2.4089",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KCSI",
+                "stakeholder": "Kutacane Aceh Tenggara Aceh",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.7716",
+                    "3.5222",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BSI",
+                "stakeholder": "Banda Aceh Nanggro Aceh Darusalam   ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.2962",
+                    "5.4964",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CASI",
+                "stakeholder": "Calang Aceh  ",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.5760",
+                    "4.6288",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LEM",
+                "stakeholder": "Lembang-Bandung Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.6175",
+                    "-6.8266",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBJI",
+                "stakeholder": "Bungbulang Garut Jawa barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.8150",
+                    "-7.5557",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CBJM",
+                "stakeholder": "Cipongkor Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.355",
+                    "-6.9353",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CCJM",
+                "stakeholder": "Campaka Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.1401",
+                    "-7.0168",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CWJM",
+                "stakeholder": "Cikalong Wetan Jawa Barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.4448",
+                    "-6.7424",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JTJM",
+                "stakeholder": "Jampang Tengah Jawa Barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.8015",
+                    "-7.0573",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSJM",
+                "stakeholder": "Pelabuhan Ratu Jawa Barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.5604",
+                    "-6.9853",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SCJM",
+                "stakeholder": "Sukaluyu Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.2221",
+                    "-6.8437",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SSJM",
+                "stakeholder": "Sukaraja Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.9626",
+                    "-6.8872",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TSJM",
+                "stakeholder": "Tanjungsiang Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.8109",
+                    "-6.7319",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WSJM",
+                "stakeholder": "Warungkiara Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.7249",
+                    "-6.9748",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BKJI",
+                "stakeholder": "Banjar Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.5322",
+                    "-7.3633",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CIJI",
+                "stakeholder": "Cipedes Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.1958",
+                    "-7.3174",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PBJI",
+                "stakeholder": "Pasirjambu Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.4757",
+                    "-7.0874",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TOJI",
+                "stakeholder": "Tomo Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.1344",
+                    "-6.7621",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JPJI",
+                "stakeholder": "Jatiluhur Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.4175",
+                    "-6.5306",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CSJI",
+                "stakeholder": "Ciracap Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.5210",
+                    "-7.3301",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JBJI",
+                "stakeholder": "Jasinga Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.4698",
+                    "-6.4837",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CBJI",
+                "stakeholder": "Citeko Bogor Jawa Barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.9350",
+                    "-6.6981",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DBJI",
+                "stakeholder": "Dermaga Jawabarat  ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.7497",
+                    "-6.5538",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CMJI",
+                "stakeholder": "Cimerak Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.4485",
+                    "-7.7837",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CNJI",
+                "stakeholder": "Cianjur Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.1300",
+                    "-7.3090",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JCJI",
+                "stakeholder": "Jatiwangi Cirebon Jawa Barat",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.2631",
+                    "-6.7344",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SKJI",
+                "stakeholder": "Sukabumi Jawa Barat ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.5563",
+                    "-7.0053",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SMRI",
+                "stakeholder": "Semarang Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.4408",
+                    "-7.0491",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GGJM",
+                "stakeholder": "Gabus Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.2037",
+                    "-7.1717",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GUJM",
+                "stakeholder": "Gubug Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.6625",
+                    "-7.0514",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JBJM",
+                "stakeholder": "Jepon Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.4587",
+                    "-6.9729",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JWJM",
+                "stakeholder": "Juwangi Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.7527",
+                    "-7.2062",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KBJM",
+                "stakeholder": "Kunduran Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.2329",
+                    "-7.0505",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MKJM",
+                "stakeholder": "Manisrenggo Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.4834",
+                    "-7.6629",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BUJI",
+                "stakeholder": "Buayan Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.4613",
+                    "-7.7560",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BOJI",
+                "stakeholder": "Sawit Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.6893",
+                    "-7.5681",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RITA",
+                "stakeholder": "Temanggung Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.1841",
+                    "-7.1638",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BTJI",
+                "stakeholder": "Bumi Jawa Jawa Tengah",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.1641",
+                    "-7.1972",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KWJI",
+                "stakeholder": "Kertek Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.9691",
+                    "-7.3837",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PKJI",
+                "stakeholder": "Paninggaran Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.5798",
+                    "-7.1678",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BMBNG",
+                "stakeholder": "Kudus Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.8840",
+                    "-6.6634",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GBJI",
+                "stakeholder": "Gringsing Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.9762",
+                    "-6.9533",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PRJI",
+                "stakeholder": "Pracimantoro Jawa Tengah ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.7917",
+                    "-8.0721",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CTJI",
+                "stakeholder": "Cacaban Tegal Jawa Tengah",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.1836",
+                    "-7.0075",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KPJI",
+                "stakeholder": "Karang Pucung Cilacap.Jawa Tengah",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.9312",
+                    "-7.3332",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SCJI",
+                "stakeholder": "Srandil Cilacap Jawa Tengah",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.1689",
+                    "-7.6810",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UWJI",
+                "stakeholder": "Ujung Watu Jawa Tengah",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.9474",
+                    "-6.4191",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MBJI",
+                "stakeholder": "Majelengka Banjarnegara JaTeng ",
+                "uptbmkg": "Stageof-Banjarnegara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "109.6322",
+                    "-7.4488",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GSI",
+                "stakeholder": "Gunung Sitoli Nias Sumatera Utara   ",
+                "uptbmkg": "Stageof-GunungSitoli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.5754",
+                    "1.3036",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SNBI",
+                "stakeholder": "Sirombu Sumatera Utara ",
+                "uptbmkg": "Stageof-GunungSitoli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.4651",
+                    "0.932",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PBSI",
+                "stakeholder": "Pulau Batu Sumatera Utara",
+                "uptbmkg": "Stageof-GunungSitoli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.2800",
+                    "-0.0547",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TDNI",
+                "stakeholder": "Teluk Dalam Nias Sumatera Utara   ",
+                "uptbmkg": "Stageof-GunungSitoli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.8150",
+                    "0.5792",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GTOI",
+                "stakeholder": "Gorontalo Sulawesi  ",
+                "uptbmkg": "Stageof-Gorontalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.8700",
+                    "0.7628",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KGCM",
+                "stakeholder": "Kwandang Gorontalo  ",
+                "uptbmkg": "Stageof-Gorontalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.0099",
+                    "0.5485",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TGCM",
+                "stakeholder": "Telaga Gorontalo  ",
+                "uptbmkg": "Stageof-Gorontalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.0772",
+                    "0.5199",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MRSI",
+                "stakeholder": "Marissa Gorontalo  ",
+                "uptbmkg": "Stageof-Gorontalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.9406",
+                    "0.4771",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SMSI",
+                "stakeholder": "Sumalata Gorontalo  ",
+                "uptbmkg": "Stageof-Gorontalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.3654",
+                    "0.9885",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KAPI",
+                "stakeholder": "Kappang Sulawesi Selatan ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.7517",
+                    "-5.0142",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBCM",
+                "stakeholder": "Bontocani Sulawesi Selatan ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.058",
+                    "-5.0392",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LPCM",
+                "stakeholder": "Lembang Sulawesi Selatan ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.72",
+                    "-3.501",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LSCM",
+                "stakeholder": "Lalabati Rilau Sulawesi Selatan",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8987",
+                    "-4.365",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPCM",
+                "stakeholder": "Patampanua Sulawesi Selatan ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.7269",
+                    "-3.727",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SWCM",
+                "stakeholder": "Sabbang Paru Sulawesi Selatan",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.0109",
+                    "-4.2145",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TBCM",
+                "stakeholder": "Tonra Sulawesi Selatan ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.2824",
+                    "-4.9118",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BKSI",
+                "stakeholder": "Kab Bulukumba Sulawesi Selatan",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.1224",
+                    "-5.3218",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BSSI",
+                "stakeholder": "Benteng P Selayar Sulawesi Selatan   ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.4904",
+                    "-6.1428",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MKS",
+                "stakeholder": "Gowa makassar Sulawesi Selatan",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.4696",
+                    "-5.2178",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JAGI",
+                "stakeholder": "Jajag Banyuwangi Jawa Timur",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.1520",
+                    "-8.4703",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GEJI",
+                "stakeholder": "Gedangan Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.6450",
+                    "-8.4101",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PLJI",
+                "stakeholder": "Plosoklaten Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.1548",
+                    "-7.8616",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TUJI",
+                "stakeholder": "Tumpakrejo Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.7322",
+                    "-8.4018",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WRJI",
+                "stakeholder": "Curahdami Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.7456",
+                    "-7.8112",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KLJI",
+                "stakeholder": "Klakah Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.2517",
+                    "-7.9960",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GMJI",
+                "stakeholder": "Gumukmas Jawa Timur ",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.4441",
+                    "-8.2732",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MLJI",
+                "stakeholder": "Malang Karangkates Jawa Timur",
+                "uptbmkg": "Stageof-Karangkates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.4467",
+                    "-8.1575",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LKCI",
+                "stakeholder": "Pakue Sulawesi Tenggara ",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.8858",
+                    "-3.492",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PKCI",
+                "stakeholder": "Lainea Sulawesi Tenggara ",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.481",
+                    "-4.2918",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WWCI",
+                "stakeholder": "Wangi-wangi Sulawesi Tenggara ",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.5251",
+                    "-5.2724",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBSI",
+                "stakeholder": "Bau Bau Sulawesi Tenggara",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.5695",
+                    "-5.4885",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KKSI",
+                "stakeholder": "Kolaka Sulawesi Tenggara ",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.6513",
+                    "-4.1717",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KDI",
+                "stakeholder": "Kendari Sulawesi Tenggara ",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.6193",
+                    "-3.9574",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JMBI",
+                "stakeholder": "Jambi   ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.5760",
+                    "-1.6764",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MNAI",
+                "stakeholder": "Manna Bengkulu  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.9557",
+                    "-4.3605",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PMBI",
+                "stakeholder": "Palembang Sumatera Selatan ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.6993",
+                    "-2.9024",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ABSM",
+                "stakeholder": "Argamakmur Bengkulu  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.262",
+                    "-3.4254",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BLSM",
+                "stakeholder": "Batukuning Lakitan Ulu SumSel",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.156",
+                    "-2.7563",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BOSM",
+                "stakeholder": "Banding Agung Sumatera Selatan",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.162",
+                    "-4.8213",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LHSM",
+                "stakeholder": "Semendo Sumatera Selatan ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.952",
+                    "-3.7529",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MBSM",
+                "stakeholder": "Marga Sakti Seblat Bengkulu",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.8744",
+                    "-3.1344",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MKSM",
+                "stakeholder": "Muara Sahung Bengkulu ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.3605",
+                    "-4.5288",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MTSM",
+                "stakeholder": "Muara Dua Sumatera Selatan",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.509",
+                    "-4.3053",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RMSM",
+                "stakeholder": "Rawas Hulu Sumatera Selatan",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.82",
+                    "-4.5446",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SKSM",
+                "stakeholder": "Siulak Mukai Jambi ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.35",
+                    "-1.9461",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TMSM",
+                "stakeholder": "Teramang Jaya Bengkulu ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.308",
+                    "-2.6406",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ULSM",
+                "stakeholder": "Ulu Musi Sumatera Selatan",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.7985",
+                    "-3.7596",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UTSM",
+                "stakeholder": "Ulu Talo Bengkulu ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.7463",
+                    "-4.0847",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JMSI",
+                "stakeholder": "Jangkat Jambi  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.8874",
+                    "-2.6371",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LLSI",
+                "stakeholder": "Lubuk Linggau Barat SumSel",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.9139",
+                    "-3.2784",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PKSI",
+                "stakeholder": "Pagar Alam Utara Sumatera Selatan   ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.2639",
+                    "-4.0428",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BMSI",
+                "stakeholder": "Bangko Jambi  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.3154",
+                    "-2.0664",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MBBI",
+                "stakeholder": "Muara Bungo Jambi ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.0984",
+                    "-1.5406",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "EGSI",
+                "stakeholder": "Enggano Bengkulu  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.2763",
+                    "-5.3524",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KRJI",
+                "stakeholder": "Kerinci Jambi  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.4619",
+                    "-2.0912",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MASI",
+                "stakeholder": "Muara Aman Bengkulu ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.2396",
+                    "-3.1415",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MKBI",
+                "stakeholder": "Muko-Muko Bengkulu Indonesia ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.2396",
+                    "-2.4474",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SLSI",
+                "stakeholder": "Sarolangun Jambi  ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.5927",
+                    "-2.3924",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UBSI",
+                "stakeholder": "UniB Bengkulu Bengkulu ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.2714",
+                    "-3.7611",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LHSI",
+                "stakeholder": "Lahat Sumatera Selatan ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.5233",
+                    "-3.8266",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MDSI",
+                "stakeholder": "Muara Dua Sumatera Selatan",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.1782",
+                    "-4.4860",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KSI",
+                "stakeholder": "Kepahiyang Bengkulu Sumatera ",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.5929",
+                    "-3.6510",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TPI",
+                "stakeholder": "Tanjung Pandan Bangka Belitung",
+                "uptbmkg": "Stageof-Bengkulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.6534",
+                    "-2.7564",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KLSI",
+                "stakeholder": "Kotabumi Lampung  ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.7317",
+                    "-4.6871",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LESM",
+                "stakeholder": "Lemong Lampung  ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.7124",
+                    "-4.9616",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LLSM",
+                "stakeholder": "Limau Lampung  ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.5507",
+                    "-5.313",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPSM",
+                "stakeholder": "Pesisir Selatan Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.0153",
+                    "-5.3181",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSSM",
+                "stakeholder": "Pematang Sawah Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.6954",
+                    "-5.8643",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SUSM",
+                "stakeholder": "Sekincau Lampung  ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.2945",
+                    "-5.0212",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPLI",
+                "stakeholder": "Punduh Pedada Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105.1448",
+                    "-5.7410",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UTSI",
+                "stakeholder": "Ulu Belu Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.5509",
+                    "-5.3125",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSLI",
+                "stakeholder": "Rajabasa P Sibesi Lampung",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105.5100",
+                    "-5.9373",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BLSI",
+                "stakeholder": "Bandar Lampung Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105.2452",
+                    "-5.3675",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KASI",
+                "stakeholder": "Kota Agung Lampung ",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.4960",
+                    "-5.5236",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KLI",
+                "stakeholder": "Kotabumi Lampung Utara Lampung",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.8705",
+                    "-4.8363",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LWLI",
+                "stakeholder": "Liwa Lampung Barat Lampung",
+                "uptbmkg": "Stageof-Lampung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.0589",
+                    "-5.0175",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LBFI",
+                "stakeholder": "Labuhan Bajo Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8921",
+                    "-8.4800",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LMNI",
+                "stakeholder": "Lembata Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.4790",
+                    "-8.4658",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RONI",
+                "stakeholder": "Rote Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.0732",
+                    "-10.765",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BATI",
+                "stakeholder": "Baumata Kupang Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.6633",
+                    "-10.206",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MMRI",
+                "stakeholder": "Maumere Nusa Tengagara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.2376",
+                    "-8.6357",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SOEI",
+                "stakeholder": "Soei Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.2672",
+                    "-9.7553",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KTTI",
+                "stakeholder": "Kolbano Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.5163",
+                    "-10.036",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ALKI",
+                "stakeholder": "Alor Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.5903",
+                    "-8.1445",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ATNI",
+                "stakeholder": "Atambua Kab Belu NTT",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.8644",
+                    "-9.0835",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "EDFI",
+                "stakeholder": "Ende Flores Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.6903",
+                    "-8.7497",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LRTI",
+                "stakeholder": "Larantuka Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.0000",
+                    "-8.2752",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBNI",
+                "stakeholder": "Sabu Nusa Tenggara Timur Indonesia   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.8457",
+                    "-10.491",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PBCI",
+                "stakeholder": "Poigar Sulawesi Utara ",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.0396",
+                    "0.383",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KMSI",
+                "stakeholder": "Kotamubago Sulawesi Utara ",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.8907",
+                    "0.5745",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MGAI",
+                "stakeholder": "Melonguane Talud Sulawesi Utara",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "126.6700",
+                    "4.0079",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SGSI",
+                "stakeholder": "Sangihe Sulawesi Utara ",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "125.5286",
+                    "3.6860",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TMSI",
+                "stakeholder": "Tondano Sulawesi Utara ",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.9200",
+                    "1.2948",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MNI",
+                "stakeholder": "Manado Sulawesi Utara Indonesia",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.8400",
+                    "1.4440",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PLAI",
+                "stakeholder": "Plampang Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.7219",
+                    "-8.7006",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BYLI",
+                "stakeholder": "Bayan Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.4201",
+                    "-8.2273",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PBLI",
+                "stakeholder": "Pujut Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.2778",
+                    "-8.8218",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PDLI",
+                "stakeholder": "Pekat Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.8729",
+                    "-8.1037",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DBNI",
+                "stakeholder": "Dompu Bima Nusa Tenggara Barat   ",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "118.3121",
+                    "-8.5019",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KLNI",
+                "stakeholder": "Mataram Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.0949",
+                    "-8.4219",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TWSI",
+                "stakeholder": "Taliwang Nusa Tenggara Barat",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.8821",
+                    "-8.7381",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IWPI",
+                "stakeholder": "Rasiei Papua Barat ",
+                "uptbmkg": "Stageof-Nabire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "134.5357",
+                    "-2.8278",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MIPI",
+                "stakeholder": "Mimika Baru Papua ",
+                "uptbmkg": "Stageof-Nabire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.8935",
+                    "-4.5301",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BAKI",
+                "stakeholder": "Biak Papua  ",
+                "uptbmkg": "Stageof-Nabire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.1070",
+                    "-1.1915",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BKNI",
+                "stakeholder": "Bangkinang Riau  ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.0396",
+                    "0.3264",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BPSM",
+                "stakeholder": "Bayang Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.5899",
+                    "-1.1894",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LKSM",
+                "stakeholder": "Suliki Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.6",
+                    "0.1847",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LPSM",
+                "stakeholder": "Lengayang Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.7199",
+                    "1.7081",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MPSM",
+                "stakeholder": "Mapat Tunggul Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.1384",
+                    "0.5892",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RASM",
+                "stakeholder": "Ranah Ampek Hulu Tapan SumBar   ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.0705",
+                    "-2.1652",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBSM",
+                "stakeholder": "Sungai Beremas Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.3773",
+                    "0.1979",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SLSM",
+                "stakeholder": "Sungai Lasi Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.6533",
+                    "0.8311",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SMSM",
+                "stakeholder": "Simpati Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.1707",
+                    "0.0064",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SSSM",
+                "stakeholder": "Sangir Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.2375",
+                    "-1.5642",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DDSI",
+                "stakeholder": "Dumai Timur Riau ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.4598",
+                    "1.6677",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GTSI",
+                "stakeholder": "Gunung Toar Riau ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.4887",
+                    "-0.598",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PABI",
+                "stakeholder": "Pasaman Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.8719",
+                    "0.1241",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RRSI",
+                "stakeholder": "Rambah Riau  ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.3398",
+                    "-0.8421",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TASI",
+                "stakeholder": "Tanjung Raya Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.2246",
+                    "-0.2991",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JPSI",
+                "stakeholder": "Jurai Sumatera Barat ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.5864",
+                    "-1.3416",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JASI",
+                "stakeholder": "Sangir Balai Janggo Sumatera Barat   ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.4583",
+                    "-1.4145",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PLSI",
+                "stakeholder": "Pangkalan Koto Baru Sumatera Barat   ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.5539",
+                    "0.23729",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "STSI",
+                "stakeholder": "Silaut Pesisir Selatan SumBar",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.0478",
+                    "-2.3887",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PDSI",
+                "stakeholder": "Unand Padang Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.4617",
+                    "-0.9118",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPSI",
+                "stakeholder": "Pulau Pagai Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.0100",
+                    "-2.7660",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RGRI",
+                "stakeholder": "Rengat Riau  ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.3338",
+                    "-0.3491",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SDSI",
+                "stakeholder": "Sungai Dareh Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "101.4280",
+                    "-0.9325",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SISI",
+                "stakeholder": "Pulau Saibi Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.0895",
+                    "-1.3265",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DSRI",
+                "stakeholder": "Dabo Singkep Kepulauan Riau",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.5778",
+                    "-0.4793",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPBI",
+                "stakeholder": "Pangkal Pinang Bangka Belitung",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.1364",
+                    "-2.1616",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TPRI",
+                "stakeholder": "Tanjung Pinang Kepulauan Riau",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "104.3200",
+                    "0.9200",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPI",
+                "stakeholder": "Kota Padangpanjang Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100.3968",
+                    "-0.4550",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SASI",
+                "stakeholder": "Simpang Empat SumBar ",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.8754",
+                    "0.1241",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LUWI",
+                "stakeholder": "Luwuk Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.7716",
+                    "-1.0418",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TOLI2",
+                "stakeholder": "Toli-Toli Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.7945",
+                    "1.1214",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BDCM",
+                "stakeholder": "Banawa Selatan Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.5867",
+                    "-0.873",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BGCM",
+                "stakeholder": "Balaesang Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.858",
+                    "-0.0804",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BHCM",
+                "stakeholder": "Bahodopi Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.1259",
+                    "-2.7965",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BLCM",
+                "stakeholder": "Balaesang Tanjung Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.687",
+                    "-0.123",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BTCM",
+                "stakeholder": "Bungku Tengah Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.9241",
+                    "-2.4768",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DOCM",
+                "stakeholder": "Donggala Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.7489",
+                    "-0.6758",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LOCM",
+                "stakeholder": "Lore Tengah Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.1825",
+                    "-1.6502",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LUCM",
+                "stakeholder": "Lore Utara Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.3225",
+                    "-1.4262",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PICM",
+                "stakeholder": "Parigi Utara Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.0887",
+                    "-0.711",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RDCM",
+                "stakeholder": "Rio Pakava Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.5524",
+                    "-1.2955",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WMCM",
+                "stakeholder": "Wita Ponda Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.622",
+                    "-2.2162",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBCI",
+                "stakeholder": "Biau Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.0887",
+                    "0.711",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BGCI",
+                "stakeholder": "Balantak Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.3911",
+                    "-0.8816",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "POCI",
+                "stakeholder": "Poso Pesisir Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.3225",
+                    "-1.4262",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SDCI",
+                "stakeholder": "Sindue Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.777",
+                    "-0.4084",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TPCI",
+                "stakeholder": "Taopa Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.0993",
+                    "0.4674",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "APSI",
+                "stakeholder": "Ampana Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.6487",
+                    "-0.9108",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MPSI",
+                "stakeholder": "Mapaga Donggola Sulawesi Tengah",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8980",
+                    "0.3374",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PCI",
+                "stakeholder": "Palu Sulawesi Tengah ",
+                "uptbmkg": "Stageof-Palu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8367",
+                    "-0.9055",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IGBI",
+                "stakeholder": "Ingas Denpasar Bali ",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.1460",
+                    "-8.8180",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RTBI",
+                "stakeholder": "Rangdo Tabanan Negara Bali",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.9420",
+                    "-8.4597",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DNP",
+                "stakeholder": "Denpasar Bali  ",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.2097",
+                    "-8.6774",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SRBI",
+                "stakeholder": "Singaraja Bali  ",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.2126",
+                    "-8.0848",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KHK",
+                "stakeholder": "Kahang-kahang Karang Asem Bali",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.6096",
+                    "-8.3640",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BNDI",
+                "stakeholder": "Bandaneira P Banda Maluku",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "129.5427",
+                    "-4.3135",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SAUI",
+                "stakeholder": "Saumlaki Maluku  ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "131.2988",
+                    "-7.9826",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ARMI",
+                "stakeholder": "Aru Maluku  ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "134.1411",
+                    "-6.5896",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KKMI",
+                "stakeholder": "Kei Kecil Maluku ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.7179",
+                    "-5.693",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KTMI",
+                "stakeholder": "Kormomolin Maluku  ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "131.58",
+                    "-7.66",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NBMI",
+                "stakeholder": "Namrole Maluku  ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "126.419",
+                    "-3.7113",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TLE2",
+                "stakeholder": "Tual2 Maluku  ",
+                "uptbmkg": "Stageof-Saumlaki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.7395",
+                    "-5.6994",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBJM",
+                "stakeholder": "Bubulan Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.8099",
+                    "-7.326",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KPJM",
+                "stakeholder": "Kapas Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.9281",
+                    "-7.1883",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SEJI",
+                "stakeholder": "Senori Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.7288",
+                    "-7.0051",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NGJI",
+                "stakeholder": "Ngawi Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.4612",
+                    "-7.3676",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PCJI",
+                "stakeholder": "Pacitan Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.1771",
+                    "-8.1947",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PWJI",
+                "stakeholder": "Pagerwojo Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.8039",
+                    "-8.2200",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SWJI",
+                "stakeholder": "Sawahan Jawa Timur ",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.7669",
+                    "-7.7349",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SNJI",
+                "stakeholder": "Sawahan Nganjuk Jawa Timur",
+                "uptbmkg": "Stageof-Nganjuk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.7591",
+                    "-7.7808",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MWPI",
+                "stakeholder": "Manokwari Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "134.0431",
+                    "-0.9258",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SIJI",
+                "stakeholder": "Sorong Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "131.2661",
+                    "-0.8691",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "FAKI",
+                "stakeholder": "Fak-Fak Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.2650",
+                    "-2.9192",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MBPI",
+                "stakeholder": "Manimeri Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "133.7322",
+                    "-2.035",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "STPI",
+                "stakeholder": "Sausapor Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.09",
+                    "-0.4977",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TSPI",
+                "stakeholder": "Teminabuan Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.0898",
+                    "-1.4733",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KMPI",
+                "stakeholder": "Kaimana Kaimana Papua Barat",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "133.7044",
+                    "-3.6617",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RAPI",
+                "stakeholder": "Raja Ampat Papua Barat",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "130.8211",
+                    "-0.4102",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RKPI",
+                "stakeholder": "Ransiki Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "134.1773",
+                    "-1.5107",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SWI",
+                "stakeholder": "Sorong Papua Barat ",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "131.2592",
+                    "-0.8628",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TNGI",
+                "stakeholder": "Tangerang Banten  ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.6470",
+                    "-6.1720",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PTJI",
+                "stakeholder": "Pondok Aren Banten ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.7488",
+                    "-6.2555",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WLJI",
+                "stakeholder": "Wonosalam Banten  ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105.8909",
+                    "-6.8310",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "CGJI",
+                "stakeholder": "Cigeulis Pandeglang Banten ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "108.2630",
+                    "-6.7344",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBJI",
+                "stakeholder": "Serang Banten  ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.1318",
+                    "-6.1117",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SADLY",
+                "stakeholder": "Tangerang Banten  ",
+                "uptbmkg": "Stageof-Tangerang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "106.0741",
+                    "-6.5737",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TPTI",
+                "stakeholder": "Tapaktuan Aceh  ",
+                "uptbmkg": "Stageof-Tapaktuan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.1774",
+                    "3.2618",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KLSM",
+                "stakeholder": "Kluet Utara Aceh ",
+                "uptbmkg": "Stageof-Tapaktuan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.37439",
+                    "3.6579",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LISM",
+                "stakeholder": "Lingge Isaq Aceh ",
+                "uptbmkg": "Stageof-Tapaktuan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.1822",
+                    "4.3166",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KUSI",
+                "stakeholder": "Kluet Utara Aceh ",
+                "uptbmkg": "Stageof-Tapaktuan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.3158",
+                    "3.2211",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SSSI",
+                "stakeholder": "Subulussalam Aceh  ",
+                "uptbmkg": "Stageof-Tapaktuan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.9707",
+                    "2.6748",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TNTI",
+                "stakeholder": "Ternate Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.3669",
+                    "0.7721",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GHMI",
+                "stakeholder": "Gane Barat Maluku Utara",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.8797",
+                    "0.341",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IHMI",
+                "stakeholder": "Ibu Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.55",
+                    "1.5075",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JHMI",
+                "stakeholder": "Jailolo Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.478",
+                    "1.0756",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PMMI",
+                "stakeholder": "Pulau Makian Maluku Utara",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.4158",
+                    "0.372",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WBMI",
+                "stakeholder": "Weda Barat Maluku Utara",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.854",
+                    "0.3275",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WHMI",
+                "stakeholder": "Wasile Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.132",
+                    "1.0825",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GLMI",
+                "stakeholder": "Galela Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.7879",
+                    "1.8381",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LBMI",
+                "stakeholder": "Labuha Maluku Utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.5008",
+                    "-0.6379",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "OBMI",
+                "stakeholder": "Pulau OBI Maluku Utara",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "127.6444",
+                    "-1.3414",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MTAI",
+                "stakeholder": "Morotai Maluku utara ",
+                "uptbmkg": "Stageof-Ternate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.2758",
+                    "2.1980",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BYJI",
+                "stakeholder": "Banyuwangi Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.3557",
+                    "-8.2140",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TBJI",
+                "stakeholder": "Tambakboyo Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "111.8481",
+                    "-6.8179",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MLJM",
+                "stakeholder": "Mantup Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.3379",
+                    "-7.2483",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SIJM",
+                "stakeholder": "Sidoarjo Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.696",
+                    "-7.2947",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WGJM",
+                "stakeholder": "Wringianom Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.5098",
+                    "-7.3833",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BAJI",
+                "stakeholder": "Socah Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.7085",
+                    "-7.0905",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LUJI",
+                "stakeholder": "Lumbang Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.0107",
+                    "-7.826",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ABJI",
+                "stakeholder": "Asem Bagus Situbondo Jawa Timur   ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.2340",
+                    "-7.7956",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BLJI",
+                "stakeholder": "Banyuglugur Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.5950",
+                    "-7.7454",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BWJI",
+                "stakeholder": "Bawean Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.6578",
+                    "-5.8511",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GRJI",
+                "stakeholder": "Gresik Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.4794",
+                    "-6.9144",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KMMI",
+                "stakeholder": "Kalianget Jawa Timur ",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.9157",
+                    "-7.0412",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PPJI",
+                "stakeholder": "Prigen Pasuruan Jawa Timur",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "112.6350",
+                    "-7.7054",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSI",
+                "stakeholder": "Parapat Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.9240",
+                    "2.6952",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ONSM",
+                "stakeholder": "Onan Ganjang Sumatera Utara",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.63",
+                    "2.1598",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PLSM",
+                "stakeholder": "Sosa Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.7759",
+                    "1.0576",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RSSM",
+                "stakeholder": "Ronggurnihuta Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.7832",
+                    "2.5981",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SDSM",
+                "stakeholder": "Sidikalang Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.295",
+                    "2.7545",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SPSM",
+                "stakeholder": "Sitellu Tali Urang Julu SumUt   ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.3737",
+                    "2.516",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TKSM",
+                "stakeholder": "Tiganderket Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.3244",
+                    "3.1374",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MTSI",
+                "stakeholder": "Manduamas Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.2527",
+                    "2.1527",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LDSI",
+                "stakeholder": "Laurambong Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.160522",
+                    "2.88948",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "MNSI",
+                "stakeholder": "Mandailing Natal Sumatera Utara",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.5796",
+                    "0.7955",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBSI",
+                "stakeholder": "Sibolga Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.4310",
+                    "1.3988",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TRSI",
+                "stakeholder": "Tarutung Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.9594",
+                    "2.0256",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TSI",
+                "stakeholder": "Tuntungan Sumatera Utara ",
+                "uptbmkg": "Stageof-DeliSerdang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "98.5645",
+                    "3.5012",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BNTI",
+                "stakeholder": "Bajawa Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.9768",
+                    "-8.7881",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LMTI",
+                "stakeholder": "Langke Rembong Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.4771",
+                    "-8.6011",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "USTI",
+                "stakeholder": "Umbu Ratu Nggay Nusa Tenggara Timur  ",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.7878",
+                    "-9.6543",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BASI",
+                "stakeholder": "Baing Waingapu NTT ",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.5777",
+                    "-10.218",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WBSI",
+                "stakeholder": "Waikabubak Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.3911",
+                    "-9.6411",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WSI",
+                "stakeholder": "Waingapu Nusa Tenggara Timur",
+                "uptbmkg": "Stageof-Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.2977",
+                    "-9.6690",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "YOGI",
+                "stakeholder": "Yogyakarta   ",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.2950",
+                    "-7.8166",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UGM",
+                "stakeholder": "Wanagama Yogyakarta  ",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.5219",
+                    "-7.9125",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "GKJM",
+                "stakeholder": "Gedangsari Yogyakarta  ",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.5922",
+                    "-7.8411",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBJM",
+                "stakeholder": "Sanden Yogyakarta  ",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.2661",
+                    "-7.9682",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WOJI",
+                "stakeholder": "Wonogiri Yogyakarta  ",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.9236",
+                    "-7.8372",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SPSJM",
+                "stakeholder": "Serang Panjang Subang Jawa Barat   ",
+                "uptbmkg": "Stageof-Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "107.6137",
+                    "-6.6667",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BPMJM",
+                "stakeholder": "Batumarmar Pamekasan Jawa Timur",
+                "uptbmkg": "Stageof-Tretes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "113.4922",
+                    "-6.9505",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DWIKO",
+                "stakeholder": "Panggang Gunung Kidul DIY",
+                "uptbmkg": "Stageof-Yogya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "110.4142",
+                    "-8.0102",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IATSM",
+                "stakeholder": "Idi Aceh Timur Aceh",
+                "uptbmkg": "Stageof-MataIe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "97.7846",
+                    "4.9241",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PSJCM",
+                "stakeholder": "Pasimansunggu Selayar SulSel ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.6202",
+                    "-7.0600",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TBMCM",
+                "stakeholder": "Bolaang Mongondow Sulawesi Utara",
+                "uptbmkg": "Stageof-Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.5902",
+                    "-0.7140",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TRIYO",
+                "stakeholder": "Sipora Selatan Sumatera Barat",
+                "uptbmkg": "Stageof-PadangPanjang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "99.5831",
+                    "-2.0602",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WUPCM",
+                "stakeholder": "Wara Utara Kota Palopo SulSel   ",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.1930",
+                    "-3.0065",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PWCM",
+                "stakeholder": "Pitumpanua Kab Wajo SulSel",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.4014",
+                    "-3.6739",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BBBCM",
+                "stakeholder": "Bonto Bahari Bulukumba SulSel",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.4481",
+                    "-5.5772",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KJCM",
+                "stakeholder": "Kelara Kab Jeneponto SulSel",
+                "uptbmkg": "Stageof-Gowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8025",
+                    "-5.5664",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RKCM",
+                "stakeholder": "Rauta Konawe Sulawesi Tenggara",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.3450",
+                    "-2.5625",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WKCM",
+                "stakeholder": "Wolo Kolaka Sulawesi Tenggara",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.1757",
+                    "-3.4930",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "UKCM",
+                "stakeholder": "Unaaha Konawe Sulawesi Tenggara",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.2360",
+                    "-3.5125",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LKUCM",
+                "stakeholder": "Langgikima Konawe Utara SulTenggara",
+                "uptbmkg": "Stageof-Kendari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.1920",
+                    "-3.3020",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "TMTMM",
+                "stakeholder": "Tehoru Maluku Tengah Maluku",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "129.5305",
+                    "-3.2980",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NSBMM",
+                "stakeholder": "Seram Barat Maluku ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "128.2096",
+                    "-3.0828",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WSTMM",
+                "stakeholder": "Werinama Seram Bagian Timur Maluku   ",
+                "uptbmkg": "Stageof-Ambon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "129.9950",
+                    "-3.4530",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "NJBM",
+                "stakeholder": "Negara Jembrana Bali ",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.6171",
+                    "-8.3099",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SBBM",
+                "stakeholder": "Seririt Buleleng Bali ",
+                "uptbmkg": "Stageof-Sanglah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "114.9179",
+                    "-8.2031",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SLBFM",
+                "stakeholder": "Sekotong Tengah Lombok Barat NTB   ",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "115.9336",
+                    "-8.7956",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WLTFM",
+                "stakeholder": "Wanasaba Lombok Timur NTB",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.5408",
+                    "-8.5182",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "USFM",
+                "stakeholder": "Utan Sumbawa Nusa Tenggara Barat   ",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "117.1411",
+                    "-8.4120",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "DBNFM",
+                "stakeholder": "Donggo Bima Nusa Tenggara Barat   ",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "118.5946",
+                    "-8.0241",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "LBNFM",
+                "stakeholder": "Lambu Bima Nusa Tenggara Barat   ",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.0121",
+                    "-8.6018",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "JSBFM",
+                "stakeholder": "Jereweh Sumbawa Barat NTB",
+                "uptbmkg": "Stageof-Mataram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.8164",
+                    "-8.8717",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "AAFM",
+                "stakeholder": "Alor Selatan Alor NTT",
+                "uptbmkg": "Stageof-Alor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.7237",
+                    "-8.2734",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WEFM",
+                "stakeholder": "Wewaria Ende Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.7179",
+                    "-8.6070",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "RNFM",
+                "stakeholder": "Riung Ngada Nusa Tenggara Timur   ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.0262",
+                    "-8.4294",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WLFM",
+                "stakeholder": "Omesuri Lembata NTT ",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "123.4500",
+                    "-8.5311",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "KMBFM",
+                "stakeholder": "Kuwus Manggarai Barat NTT",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.3131",
+                    "-8.5654",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "PAFM",
+                "stakeholder": "Pantar tengah Alor NTT",
+                "uptbmkg": "Stageof-Alor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "124.1283",
+                    "-8.3832",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "WFTFM",
+                "stakeholder": "Wulnggitang Flores Timur NTT",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.7104",
+                    "-8.5247",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "OMBFM",
+                "stakeholder": "Golomori Manggarai Barat NTT",
+                "uptbmkg": "Stageof-Kupang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.8247",
+                    "-8.6910",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SJPM",
+                "stakeholder": "Sentani Jayapura Papua ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.5029",
+                    "-2.5698",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SKPM",
+                "stakeholder": "Senggi Keerom Papua ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.7256",
+                    "-3.4485",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "AMPM",
+                "stakeholder": "Aifat Maybrat Papua Barat",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "132.4918",
+                    "-1.2675",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "FKMPM",
+                "stakeholder": "Kurik Merauke Papua ",
+                "uptbmkg": "Stageof-Jayapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "140.2665",
+                    "-8.2532",
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "SWPM",
+                "stakeholder": "Sidey Manokwari Papua Barat",
+                "uptbmkg": "Stageof-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "133.5948",
+                    "-0.8036",
+                    1
+                ]
+            }
+        }
+    ]
+}
