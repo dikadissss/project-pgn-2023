@@ -30,22 +30,14 @@ def list_event(start_time, end_time):
                                     ROUND(Origin.longitude_value,2) AS longitude, \
                                     CONCAT(ROUND(Origin.depth_value), ' km') AS depthKm, \
                                     ROUND(Origin.depth_value) AS depth, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane1_strike_value, 0) AS st1, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane1_dip_value, 0) AS d1, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane1_rake_value) AS r1, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane2_strike_value) AS st2, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane2_dip_value) AS d2, \
-                                    ROUND(FocalMechanism.nodalPlanes_nodalPlane2_rake_value) AS r2, \
                                     Event.type, \
                                     EventDescription.text AS remark \
-    			from Event, PublicObject as PEvent, Origin, PublicObject as POrigin, Magnitude, PublicObject as PMagnitude, FocalMechanism, PublicObject as PFocal, EventDescription \
+    			from Event, PublicObject as PEvent, Origin, PublicObject as POrigin, Magnitude, PublicObject as PMagnitude, EventDescription \
     			where (Event.type is NULL or Event.type='earthquake') and \
     				Event._oid=PEvent._oid and \
     				Origin._oid=POrigin._oid and \
     				Magnitude._oid=PMagnitude._oid and \
     				PMagnitude.publicID=Event.preferredMagnitudeID and \
-                    FocalMechanism._oid = PFocal._oid and \
-                    PFocal.publicID = Event.preferredFocalMechanismID and \
     				POrigin.publicID=Event.preferredOriginID and \
     				Event._oid=EventDescription._parent_oid and \
     				EventDescription.type='region name' and \
@@ -53,6 +45,34 @@ def list_event(start_time, end_time):
                     order by Origin.time_value ASC; ")
 
     data = dict_fetchall(cursor)
+    return data
+
+
+def group_event(start_time, end_time):
+    cursor = connection.cursor()
+    cursor.execute(f"SELECT YEAR(Origin.time_value) AS year, \
+                            COUNT(Origin.time_value) AS count \
+                    FROM Event, \
+                         PublicObject as PEvent, \
+                         Origin, \
+                         PublicObject as POrigin, \
+                         Magnitude, \
+                         PublicObject as PMagnitude, \
+                         EventDescription \
+    			    WHERE (Event.type is NULL or Event.type='earthquake') and \
+    				      Event._oid=PEvent._oid and \
+    				      Origin._oid=POrigin._oid and \
+    				      Magnitude._oid=PMagnitude._oid and \
+    				      PMagnitude.publicID=Event.preferredMagnitudeID and \
+    				      POrigin.publicID=Event.preferredOriginID and \
+    				      Event._oid=EventDescription._parent_oid and \
+    				      EventDescription.type='region name' and \
+    				      Origin.time_value >= '{start_time}' and \
+    				      Origin.time_value <= '{end_time}' \
+    				GROUP BY YEAR(Origin.time_value); ")
+
+    data = dict_fetchall(cursor)
+    # data = cursor.fetchall()
     return data
 
 

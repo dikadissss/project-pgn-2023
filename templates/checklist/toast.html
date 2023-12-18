@@ -6,15 +6,255 @@
 {% endblock %}
 
 {% block content %}
-<div class="border border-black bg-body p-3">
-    <h4 class="text-uppercase text-center">
-        <strong>monitoring sirine, toast, aplikasi disseminasi, tsp, wrs</strong>
-    </h4>
+    <div class="border border-black bg-body p-3">
+        <h4 class="text-uppercase text-center">
+            <strong>monitoring sirine, toast, aplikasi disseminasi, tsp, wrs</strong>
+        </h4>
 
-    <section>
+        <section class="mt-5">
+            <form action="" method="post">
+            {% csrf_token %}
+                <div class="row">
+                    <div class="col">
+                        <div class="mb-3">
+                            <label for="id_user" class="form-label">Operator</label>
+                            {{ users.user }}
+                        </div>
+                        <div class="mb-3">
+                            <label for="id_shift" class="form-label">Jadwal Shift</label>
+                            {{ users.shift }}
+                        </div>
+                    </div>
 
-    </section>
-</div>
+                    <div class="col">
+                        <div class="mb-3">
+                            <label for="inputOperator" class="form-label">Kelompok</label>
+                            {{ users.group }}
+                        </div>
+                         <div class="mb-3">
+                            <label for="inputOperator" class="form-label">Hari / Tanggal</label>
+                            {{ users.datetime }}
+                        </div>
+                    </div>
+                </div>
+
+
+                {% comment %} Monitoring Sirine {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring Sirine</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for siren in sirens %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ siren.help_text }}</td>
+                            {% for field in siren %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring Seiscomp {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring SeisComP Lt.3</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for seiscomp in seiscomps %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ seiscomp.help_text }}</td>
+                            {% for field in seiscomp %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring TOAST {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring TOAST</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for toast in toasts %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ toast.help_text }}</td>
+                            {% for field in toast %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring Disseminasi {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring Aplikasi Disseminasi</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for disseminate in disseminates %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ disseminate.help_text }}</td>
+                            {% for field in disseminate %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring Disseminasi {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring Aplikasi TSP</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for tsp in tsps %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ tsp.help_text }}</td>
+                            {% for field in tsp %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring WRS NG {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center">
+                        <th scope="col" style="width: 60px">No</th>
+                        <th scope="col" style="width: 600px">Monitoring WRS New Gen</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    {% for wrs in wrss %}
+                        <tr>
+                            <th scope="row">{{ forloop.counter }}</th>
+                            <td class="text-start">{{ wrs.help_text }}</td>
+                            {% for field in wrs %}
+                                <div class="form-check form-check-inline">
+                                    <td style="width: 100px">
+                                        {{ field.tag }}
+                                        <label class="form-check-label"
+                                               for="inlineRadio1">{{ field.choice_label }}</label>
+                                    </td>
+                                </div>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                {% comment %} Monitoring Temperature {% endcomment %}
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr class="text-center align-middle">
+                        <th scope="col" rowspan="2" style="width: 60px">No</th>
+                        <th scope="col" rowspan="2" style="width: 600px">Monitoring Suhu</th>
+                        <th scope="col" colspan="2">Checklist</th>
+                    </tr>
+                    <tr class="text-center">
+                        <th scope="col" >Rack 1</th>
+                        <th scope="col" >Rack 2</th>
+                    </tr>
+                    </thead>
+                    <tbody class="text-center">
+                    <tr>
+                        <th scope="row" class="align-middle">1</th>
+                        <td class="text-start align-middle">
+                            Batas suhu untuk Rack I harus < 35, Rack II harus < 30.
+                            Jika melebihi batas Max segera hubungi PT.ALC
+                        </td>
+                        {% for field in temperatures %}
+                            <div class="form-check form-check-inline">
+                                <td style="width: 100px">
+                                    {{ field }}
+                                </td>
+                            </div>
+                        {% endfor %}
+                    </tr>
+                    {#                    {% for wrs in wrss %}#}
+                    {#                        <tr>#}
+                    {##}
+                    {#                            {% for field in wrs %}#}
+                    {#                                <div class="form-check form-check-inline">#}
+                    {#                                    <td style="width: 100px">#}
+                    {#                                        {{ field.tag }}#}
+                    {#                                        <label class="form-check-label"#}
+                    {#                                               for="inlineRadio1">{{ field.choice_label }}</label>#}
+                    {#                                    </td>#}
+                    {#                                </div>#}
+                    {#                            {% endfor %}#}
+                    {#                        </tr>#}
+                    {#                    {% endfor %}#}
+                    </tbody>
+                </table>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </section>
+    </div>
 {% endblock %}
 
 {% block script %}
